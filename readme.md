@@ -36,9 +36,9 @@ This web app was created to allow users to search for their favorite cocktail dr
 
 ## Overview
 
-* [Repo Codes]()
+* [Repo Codes](https://github.com/ijayhub/cocktail-drinks)
 
-* [Hosted Link]()
+* [Hosted Link](https://cocktail-d.netlify.app/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
