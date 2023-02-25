@@ -26,7 +26,7 @@ const DrinkDetail = () => {
                     {drinks.map((drink) => (
                         <div
 							key={drink.idDrink}
-							className='container mx-auto flex items-center md:mt-52 drink-container'>
+							className='max-w-7xl mx-auto flex items-center md:mt-52 drink-container'>
 							
 							<img
 								src={drink.strDrinkThumb}

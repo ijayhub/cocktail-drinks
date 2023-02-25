@@ -32,13 +32,14 @@ const Home = () => {
     return (
 			<>
 				<Navbar />
-				<div>
+				<div className="max-w-7xl mx-auto">
                     <Input search={search} setSearch={setSearch} />
                     {!isLoading && (
 						<DrinkList
 							drinks={drinks}
 							title='Cocktail Drinks'
-							search={search}
+                            search={search}
+                        
 						/>
 					)}
 					{error && (
